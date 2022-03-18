@@ -1,3 +1,3 @@
 # 4-Zones-Wwise
-Unity / Wwise Game Audio Simulation<br />
+Unity / Wwise Game Audio Simulator<br />
 Wwise Files
